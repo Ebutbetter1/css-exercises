@@ -11,3 +11,5 @@
 .second{
     background-color: yellow;
 }
+/* Can also just do .first, .second
+    to adjust both elements w/o making a 3rd class. */
